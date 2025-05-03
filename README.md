@@ -75,10 +75,9 @@
 1. Haz un fork y crea una rama (```git checkout -b feature/mi-mejora```).
 2. Realiza tus cambios y haz commit (```git commit -m "Añade función X"```).
 3. Envía un pull request a main.
-Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 
 ## Agradecimientos
-- **Equipo de desarrollo**: Rosa María Quispe, Constantino Ramirez y Axel Israel Ramirez.
+- **Equipo de desarrollo**: Rosa Quispe, Constantino Ramirez y Axel Ramirez.
 
 ## Licencia
 Este proyecto está bajo la GNU General Public License v3.0.
