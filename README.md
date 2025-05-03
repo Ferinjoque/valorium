@@ -36,7 +36,7 @@
 1. Clona el repositorio:  
    ```
    bash
-   git clone https://github.com/TU-USUARIO/valorium.git
+   git clone https://github.com/Ferinjoque/valorium.git
    cd valorium
    ```
 2. Crea la base de datos e importa el script:
@@ -45,7 +45,7 @@
    USE valorium;
    SOURCE valorium_db.sql;
    ```
-3. Configura credenciales en ```util/ConexionBD.java```.
+3. Configura credenciales en `util/ConexionBD.java`.
 4. Compila y ejecuta:
    ```
    mvn clean package
@@ -53,14 +53,14 @@
    ```
 
 ## Uso Rápido
-1. Ejecuta la clase ```controlador.Main```.
+1. Ejecuta la clase `controlador.Main`.
 2. Inicia sesión con un usuario válido.
 3. Registra un activo nuevo desde la pestaña “Registrar”.
 4. Visualiza, modifica o da de baja activos; genera reportes o proyecta depreciaciones desde la interfaz.
 
 ## Consideraciones
 - La vida útil y categorías están predefinidas según normas SUNAT.
-- El formato de fecha es ```dd-MM-yyyy```.
+- El formato de fecha es `dd-MM-yyyy`.
 - Los terrenos no se deprecian (vida útil = 0). 
 
 ## Limitaciones
@@ -72,8 +72,8 @@
 ![Valorium](Valorium.png)
 
 ## Contribuir
-1. Haz un fork y crea una rama (```git checkout -b feature/mi-mejora```).
-2. Realiza tus cambios y haz commit (```git commit -m "Añade función X"```).
+1. Haz un fork y crea una rama (`git checkout -b feature/mi-mejora`).
+2. Realiza tus cambios y haz commit (`git commit -m "Añade función X"`).
 3. Envía un pull request a main.
 
 ## Agradecimientos
