@@ -69,7 +69,7 @@
 - Renovaciones y revaluaciones manuales sin valoración externa automática.
 
 ## Capturas de Pantalla
-![Bibliia .exe](imagenes/bibliia-exe.png)
+![Valorium](Valorium.png)
 
 ## Contribuir
 1. Haz un fork y crea una rama (```git checkout -b feature/mi-mejora```).
