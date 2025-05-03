@@ -3,7 +3,7 @@
 **Versión:** 4.0.0  
 **Fecha:** Diciembre 2024
 
-> Valorium nace del concepto de “valor” y ofrece una solución integral para gestionar el ciclo de vida de los activos fijos en la Universidad Tecnológica del Perú, registrando altas, bajas, ventas, revaluaciones y renovaciones, calculando depreciaciones y generando reportes detallados. :contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}
+> Valorium nace del concepto de “valor” y ofrece una solución integral para gestionar el ciclo de vida de los activos fijos en la Universidad Tecnológica del Perú, registrando altas, bajas, ventas, revaluaciones y renovaciones, calculando depreciaciones y generando reportes detallados.
 
 ## Tabla de Contenidos
 1. [Características](#características)  
@@ -12,9 +12,9 @@
 4. [Uso Rápido](#uso-rápido)  
 5. [Consideraciones](#consideraciones)  
 6. [Limitaciones](#limitaciones)  
-7. [Hoja de Ruta](#hoja-de-ruta)  
-8. [Capturas de Pantalla](#capturas-de-pantalla)  
-9. [Contribuir](#contribuir)  
+7. [Capturas de Pantalla](#capturas-de-pantalla)  
+8. [Contribuir](#contribuir)
+9. [Agradecimientos](#agradecimientos)
 10. [Licencia](#licencia) 
 
 ## Características
@@ -24,7 +24,7 @@
 - **Reportes**: exportación a Excel y gráficos interactivos de inventario y pérdidas por categoría.  
 - **Notificaciones**: alertas para revisión periódica y proximidad al fin de vida útil (< 6 meses).  
 - **Gestión Avanzada**: búsqueda, filtrado, ordenamiento, modificaciones, bajas, ventas, revaluaciones y renovaciones con historial completo.  
-- **Tecnologías**: Java Swing, JDBC (MySQL), Apache POI para Excel. :contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}
+- **Tecnologías**: Java Swing, JDBC (MySQL), Apache POI para Excel.
 
 ## Requisitos
 - Java 11 o superior  
@@ -78,7 +78,7 @@
 Consulta [CONTRIBUTING.md](CONTRIBUTING.md) para más detalles.
 
 ## Agradecimientos
-- Equipo de desarrollo: Rosa María Quispe, Constantino Ramirez y Axel Israel Ramirez.
+- **Equipo de desarrollo**: Rosa María Quispe, Constantino Ramirez y Axel Israel Ramirez.
 
 ## Licencia
 Este proyecto está bajo la GNU General Public License v3.0.
