@@ -79,4 +79,4 @@
 - **Equipo de desarrollo**: Rosa Quispe, Constantino Ramirez y Axel Ramirez.
 
 ## Licencia
-Este proyecto está bajo la GNU General Public License v3.0.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
