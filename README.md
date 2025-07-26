@@ -119,7 +119,7 @@ El proyecto sigue una arquitectura Modelo-Vista-Controlador (MVC) para separar l
 
 ## 🖼️ Capturas de Pantalla
 
-![Menu de Valorium](/src/main/Valorium.png)
+![Menu de Valorium](/Valorium.png)
 
 ## 🙏 Agradecimientos
 
