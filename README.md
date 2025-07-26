@@ -1,6 +1,6 @@
 # Valorium – Sistema de Gestión y Depreciación de Activos Fijos
 
-**Versión:** 4.0.0
+**Versión:** 4.0.0  
 **Fecha:** Diciembre 2024
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
